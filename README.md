@@ -6,8 +6,8 @@ Data profiling and machine learning project on the [Olist Brazilian E-Commerce d
 
 | File | Description |
 |---|---|
-| [`data_audit.ipynb`](./data_audit.ipynb) | Systematic data profiling and quality assessment of all 9 raw Olist tables |
-| [`delivery_days_prediction.ipynb`](./delivery_days_prediction.ipynb) | Feature engineering, EDA, and model comparison to predict delivery time |
+| [`_Data_Audit (1).ipynb`](<./_Data_Audit%20(1).ipynb>) | Systematic data profiling and quality assessment of all 9 raw Olist tables |
+| [`Delivery_days (1).ipynb`](<./Delivery_days%20(1).ipynb>) | Feature engineering, EDA, and model comparison to predict delivery time |
 
 ## 1. Data Audit
 
